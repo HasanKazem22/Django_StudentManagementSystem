@@ -1,6 +1,6 @@
 ## Student Management System
 
-### Create Student Data
+### All Student Data
 ![All Student](https://github.com/HasanKazem22/Django_StudentManagementSystem/assets/98735827/f84369f2-ad3f-457d-8e92-4520aaa7d145)
 
 ### Add Student Data
